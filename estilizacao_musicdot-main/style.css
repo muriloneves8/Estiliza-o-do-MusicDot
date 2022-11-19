@@ -29,3 +29,25 @@ body{
     color: black;
 }
 
+a  {  
+        padding: 5px 10px;
+        text-decoration: none;
+
+}
+
+a:link { 
+    color: #b9c941;
+}
+
+a:visited {
+    color: #c0c0c0;
+}
+
+a:hover {
+    background-color: #6d790f;
+    color: #fff;
+}
+
+a:active {
+    color: red;
+}
